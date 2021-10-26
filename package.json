@@ -1,7 +1,7 @@
 {
-  "name": "is-henry",
-  "version": "1.0.2",
-  "description": "Is the string henry?",
+  "name": "au-zipcode-check",
+  "version": "1.0.7",
+  "description": "Is it a valid zipcode",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
